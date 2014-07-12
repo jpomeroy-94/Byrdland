@@ -11,8 +11,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 class ByrdlandDb {
 
 	// --- general defs
-	// --- new test of git system
-	// --- even another test of git system
+	// --- test of egit commit/push
 	private static final String BYRDLANDDBNAME = "byrdlandDb";
 	private static final int DATABASE_VERSION = 1;
 
