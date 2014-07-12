@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Byrdland</string>
+    <string name="dummy_button">Future Byrdland Button</string>
+    <string name="dummy_content">Byrdland\nwip</string>
+	<string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+	<string name="playerfragment_text">This is a YouTubePlayerFragment!</string>
+</resources>
