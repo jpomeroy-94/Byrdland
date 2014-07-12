@@ -12,6 +12,7 @@ class ByrdlandDb {
 
 	// --- general defs
 	// --- test of egit commit/push
+	// --- test of cleanup branch commit/push
 	private static final String BYRDLANDDBNAME = "byrdlandDb";
 	private static final int DATABASE_VERSION = 1;
 
